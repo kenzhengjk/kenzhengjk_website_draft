@@ -1,1 +1,10 @@
-# kenzhengjk.github.io
+# Human
+
+### Education
+EECS
+
+### Work Experience
+Dodo birds fly high
+
+### Projects
+Yes
