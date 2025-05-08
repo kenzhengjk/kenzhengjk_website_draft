@@ -1,15 +1,4 @@
-# Human
-
-### Education
-EECS
-
-### Work Experience
-Dodo birds fly high
-
-### Projects
-Yes
-
-# 👋 Hi, I'm [Your Name]
+# Hi, I'm Ken
 
 Welcome to my personal GitHub Page! I'm a [Your Role/Profession] with a passion for [your interests or specialties]. This page serves as a portfolio of my projects, interests, and contributions.
 
@@ -54,15 +43,13 @@ _A brief one-liner description._
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenzhengjk&show_icons=true&theme=default)
 
 ---
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourusername.github.io)
+- [LinkedIn](https://linkedin.com/in/kenzhengjk)
 
 ---
 
