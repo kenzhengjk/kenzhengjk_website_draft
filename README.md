@@ -1,4 +1,4 @@
-# Hi, I'm Ken
+# Hi, I'm Ken [WIP]
 
 Welcome to my personal GitHub Page! I'm a [Your Role/Profession] with a passion for [your interests or specialties]. This page serves as a portfolio of my projects, interests, and contributions.
 
