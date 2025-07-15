@@ -1,6 +1,6 @@
-# Hi, I'm Ken [WIP]
+# Hi, I'm Ken [Work In Progress]
 
-Welcome to my personal GitHub Page! I'm a [Your Role/Profession] with a passion for [your interests or specialties]. This page serves as a portfolio of my projects, interests, and contributions.
+Welcome to my personal GitHub Page! I'm an undergraduate student at UC Berkeley studying Electrical Engineering & Computer Sciences (EECS). This page serves as a portfolio of my projects, interests, and contributions.
 
 ---
 
