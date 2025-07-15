@@ -1,4 +1,4 @@
-# Hi, I'm Ken **[THIS WEBSITE IS UNDER MAINTAINANCE - MIGRATING TO NEW REPO]**
+# Hi, I'm Ken **[Website under maintainance - MIGRATING TO NEW REPO]**
 
 Welcome to my personal GitHub Page! I'm an undergraduate student at UC Berkeley studying Electrical Engineering & Computer Sciences (EECS). This page serves as a portfolio of my projects, interests, and contributions.
 
